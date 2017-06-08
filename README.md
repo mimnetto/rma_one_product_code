@@ -10,4 +10,4 @@
 * Note: All lines should start with ``` <tr> ``` and end with ``` </tr> ```
 
 
-![Example](/mimnetto/rma_one_product_code/howto03.png?raw=true)
+![Example](rma_one_product_code/howto03.png)
