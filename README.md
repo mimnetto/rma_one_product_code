@@ -9,7 +9,8 @@
 * Find where the code for the exsisting product begins ```<!--NEW ROW --> <tr>```, and the existing product ABOVE IT ends ``` </tr> ```
 * Copy and paste the blank product line code between the ``` </tr> ``` and the ```<!--NEW ROW --><tr>```
 * Note: All products should start with ```<tr>``` and end with   ``` </tr> ```
-* Note: If you are addind a product to be the first product on the table, the same instructions apply
+* Note: If you are adding a product to be the first product on the table, the same instructions apply
+* Note: Code for a blank table with one black product can be found in newTable.html
 
 
 ``` 
