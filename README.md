@@ -5,10 +5,12 @@
 ## Steps
 
 * Open the RAW HTML via manufacture's page
-* Search for the exsisting product that you would like to place the new product above. (Ctrl+F to search)
+* Search for the exsisting product that you would like to be below the new product. (Ctrl+F to search)
 * Find where the code for the exsisting product begins ```<!--NEW ROW --> <tr>```, and the existing product ABOVE IT ends ``` </tr> ```
 * Copy and paste the blank product line code between the ``` </tr> ``` and the ```<!--NEW ROW --><tr>``
 * Note: All lines should start with ``` <tr> ``` and end with ``` </tr> ```
+* Note: If you are addind a product to be the first product on the table, the same instructions apply
+
 
 ``` 
 <!--NEW ROW -->
