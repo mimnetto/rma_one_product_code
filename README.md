@@ -10,4 +10,4 @@
 * Note: All lines should start with ``` <tr> ``` and end with ``` </tr> ```
 
 
-![](https://raw.github.com/mimnetto/rma_one_product_code/howto03.png)
+
